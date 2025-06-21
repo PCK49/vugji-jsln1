@@ -1,6 +1,6 @@
 .text {
   font-family: 'Comfortaa', sans-serif;
-  color: white;
+  color: black;
   font-size: 50px;
   text-align: center;
   margin: 10px;
@@ -14,10 +14,11 @@
   height: 200px;
   width: 100%;
   background-color:#0074ff;
+  color: white;
   justify-content: center;
   align-items: center; 
 }
-.container.front {
+.container.links {
   height: 90%;
   width: 100%;
   background-color:#0074ff;
