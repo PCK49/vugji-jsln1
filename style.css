@@ -42,3 +42,16 @@ sub {
   justify-content: center;
   align-items: center;
 }
+.button {
+  font-family: 'Comfortaa', sans-serif;
+  color: white;
+  padding: 10px;
+  width:400px;
+  height:100px;
+  transition: background-color 0.5s ease;
+  background-color: #0074ff;
+
+}
+.button:hover {
+  background-color: #005fcc;
+}
