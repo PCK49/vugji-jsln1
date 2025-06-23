@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JS Practice vuo; Part of VS</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="stylesheet" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
+</head>
+<body>
+  <div class="container front">
+    <div class="text">JS Practicebuttonp1';</div>
+  </div>
+    <p id="demo">textuihjkguojpk y7uiobvtyuihjky7iuhk:)OK</p>
+    <button class="button" type="button"
+      onclick="document.getElementById('demo').innerHTML = 'JS Button Change!'">Click PLds!</button>
+    <button class="button" type="button"
+      onclick="document.getElementById('demo').innerHTML = 'textuihjkguojpk y7uiobvtyuihjky7iuhk:)OK'">Click PLds! 4 changeup</button>
+    <button class="button" type="button"
+      onclick="document.getElementById('image').src='img/1.png'">Click PLs 4 image! 1</button>
+    <img id="image" src="img/1.png">
+    <button class="button" type="button"
+      onclick="document.getElementById('image').src='img/2.png'">Click PLs 4 image! 2</button>
+<a href="https://PCK49.github.io/vugji-jsln1">back home</a>
+</body>
+</html>
